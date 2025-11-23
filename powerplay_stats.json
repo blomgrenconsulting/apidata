@@ -1,13 +1,13 @@
 {
   "league_id": "18271",
-  "last_update": "Last update: 2025-11-23 19:14",
-  "scraped_at": "2025-11-23T21:36:19.070373",
+  "last_update": "Last update: 2025-11-23 22:16",
+  "scraped_at": "2025-11-23T23:41:01.265768",
   "total_teams": 20,
   "teams": [
     {
       "rank": "1",
       "team": "TRA",
-      "team_full_name": "Tranås AIF",
+      "team_name": "Tranås AIF",
       "games_played": 14,
       "advantages": 48,
       "pp_goals": 20,
@@ -19,7 +19,7 @@
     {
       "rank": "2",
       "team": "KHK",
-      "team_full_name": "Karlskrona HK",
+      "team_name": "Karlskrona HK",
       "games_played": 14,
       "advantages": 59,
       "pp_goals": 24,
@@ -31,7 +31,7 @@
     {
       "rank": "3",
       "team": "TAIF",
-      "team_full_name": "Tingsryds AIF",
+      "team_name": "Tingsryds AIF",
       "games_played": 12,
       "advantages": 41,
       "pp_goals": 14,
@@ -43,7 +43,7 @@
     {
       "rank": "4",
       "team": "BRS",
-      "team_full_name": "Borås HC",
+      "team_name": "Borås HC",
       "games_played": 14,
       "advantages": 45,
       "pp_goals": 13,
@@ -55,7 +55,7 @@
     {
       "rank": "5",
       "team": "HAN",
-      "team_full_name": "Hanvikens SK",
+      "team_name": "Hanvikens SK",
       "games_played": 13,
       "advantages": 47,
       "pp_goals": 13,
@@ -67,7 +67,7 @@
     {
       "rank": "6",
       "team": "MAR",
-      "team_full_name": "Mariestad BoIS HC",
+      "team_name": "Mariestad BoIS HC",
       "games_played": 14,
       "advantages": 51,
       "pp_goals": 14,
@@ -79,7 +79,7 @@
     {
       "rank": "7",
       "team": "VIT",
-      "team_full_name": "HC Vita Hästen",
+      "team_name": "HC Vita Hästen",
       "games_played": 15,
       "advantages": 45,
       "pp_goals": 11,
@@ -91,7 +91,7 @@
     {
       "rank": "8",
       "team": "HHHC",
-      "team_full_name": "Halmstad Hammers HC",
+      "team_name": "Halmstad Hammers HC",
       "games_played": 14,
       "advantages": 46,
       "pp_goals": 11,
@@ -103,7 +103,7 @@
     {
       "rank": "9",
       "team": "VIS",
-      "team_full_name": "Visby/Roma HK",
+      "team_name": "Visby/Roma HK",
       "games_played": 15,
       "advantages": 39,
       "pp_goals": 9,
@@ -115,7 +115,7 @@
     {
       "rank": "10",
       "team": "MHC",
-      "team_full_name": "Mjölby HC",
+      "team_name": "Mjölby HC",
       "games_played": 14,
       "advantages": 50,
       "pp_goals": 11,
@@ -127,7 +127,7 @@
     {
       "rank": "11",
       "team": "VÄS",
-      "team_full_name": "Västerviks IK",
+      "team_name": "Västerviks IK",
       "games_played": 14,
       "advantages": 37,
       "pp_goals": 7,
@@ -139,7 +139,7 @@
     {
       "rank": "12",
       "team": "DAL",
-      "team_full_name": "HC Dalen",
+      "team_name": "HC Dalen",
       "games_played": 13,
       "advantages": 38,
       "pp_goals": 7,
@@ -151,7 +151,7 @@
     {
       "rank": "13",
       "team": "NSK",
-      "team_full_name": "Nyköpings SK",
+      "team_name": "Nyköpings SK",
       "games_played": 16,
       "advantages": 40,
       "pp_goals": 7,
@@ -163,7 +163,7 @@
     {
       "rank": "14",
       "team": "MÖR",
-      "team_full_name": "Mörrums GoIS IK",
+      "team_name": "Mörrums GoIS IK",
       "games_played": 12,
       "advantages": 37,
       "pp_goals": 6,
@@ -175,7 +175,7 @@
     {
       "rank": "15",
       "team": "HDG",
-      "team_full_name": "Huddinge IK",
+      "team_name": "Huddinge IK",
       "games_played": 13,
       "advantages": 42,
       "pp_goals": 6,
@@ -187,7 +187,7 @@
     {
       "rank": "16",
       "team": "GRÄ",
-      "team_full_name": "Grästorps IK",
+      "team_name": "Grästorps IK",
       "games_played": 15,
       "advantages": 43,
       "pp_goals": 6,
@@ -199,7 +199,7 @@
     {
       "rank": "17",
       "team": "KUN",
-      "team_full_name": "Kungälvs IK",
+      "team_name": "Kungälvs IK",
       "games_played": 14,
       "advantages": 41,
       "pp_goals": 5,
@@ -211,7 +211,7 @@
     {
       "rank": "18",
       "team": "GRU",
-      "team_full_name": "Grums IK",
+      "team_name": "Grums IK",
       "games_played": 14,
       "advantages": 45,
       "pp_goals": 5,
@@ -223,7 +223,7 @@
     {
       "rank": "19",
       "team": "TYR",
-      "team_full_name": "Tyringe SoSS",
+      "team_name": "Tyringe SoSS",
       "games_played": 14,
       "advantages": 44,
       "pp_goals": 3,
@@ -235,7 +235,7 @@
     {
       "rank": "20",
       "team": "JÄR",
-      "team_full_name": "Järfälla HC",
+      "team_name": "Järfälla HC",
       "games_played": 14,
       "advantages": 34,
       "pp_goals": 1,
