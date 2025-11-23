@@ -1,7 +1,7 @@
 {
   "league_id": "18271",
   "last_update": "Last update: 2025-11-23 19:14",
-  "scraped_at": "2025-11-23T20:41:54.110385",
+  "scraped_at": "2025-11-23T21:15:20.202441",
   "total_teams": 20,
   "teams": [
     {
@@ -10,9 +10,9 @@
       "team_full_name": "Karlskrona HK",
       "total_score": 127.91,
       "games_played": 14,
-      "pp_percentage": 40.68,
+      "pp_percentage": "40.68%",
       "pp_rank": "2",
-      "pk_percentage": 87.23,
+      "pk_percentage": "87.23%",
       "pk_rank": "1"
     },
     {
@@ -21,9 +21,9 @@
       "team_full_name": "Tranås AIF",
       "total_score": 127.72,
       "games_played": 14,
-      "pp_percentage": 41.67,
+      "pp_percentage": "41.67%",
       "pp_rank": "1",
-      "pk_percentage": 86.05,
+      "pk_percentage": "86.05%",
       "pk_rank": "2"
     },
     {
@@ -32,9 +32,9 @@
       "team_full_name": "Tingsryds AIF",
       "total_score": 116.91,
       "games_played": 12,
-      "pp_percentage": 34.15,
+      "pp_percentage": "34.15%",
       "pp_rank": "3",
-      "pk_percentage": 82.76,
+      "pk_percentage": "82.76%",
       "pk_rank": "7"
     },
     {
@@ -43,9 +43,9 @@
       "team_full_name": "HC Vita Hästen",
       "total_score": 110.15,
       "games_played": 15,
-      "pp_percentage": 24.44,
+      "pp_percentage": "24.44%",
       "pp_rank": "7",
-      "pk_percentage": 85.71,
+      "pk_percentage": "85.71%",
       "pk_rank": "3"
     },
     {
@@ -54,9 +54,9 @@
       "team_full_name": "Borås HC",
       "total_score": 108.38,
       "games_played": 14,
-      "pp_percentage": 28.89,
+      "pp_percentage": "28.89%",
       "pp_rank": "4",
-      "pk_percentage": 79.49,
+      "pk_percentage": "79.49%",
       "pk_rank": "10"
     },
     {
@@ -65,9 +65,9 @@
       "team_full_name": "Visby/Roma HK",
       "total_score": 107.7,
       "games_played": 15,
-      "pp_percentage": 23.08,
+      "pp_percentage": "23.08%",
       "pp_rank": "9",
-      "pk_percentage": 84.62,
+      "pk_percentage": "84.62%",
       "pk_rank": "6"
     },
     {
@@ -76,9 +76,9 @@
       "team_full_name": "Hanvikens SK",
       "total_score": 105.16,
       "games_played": 13,
-      "pp_percentage": 27.66,
+      "pp_percentage": "27.66%",
       "pp_rank": "5",
-      "pk_percentage": 77.5,
+      "pk_percentage": "77.50%",
       "pk_rank": "12"
     },
     {
@@ -87,9 +87,9 @@
       "team_full_name": "Mörrums GoIS IK",
       "total_score": 101.59,
       "games_played": 12,
-      "pp_percentage": 16.22,
+      "pp_percentage": "16.22%",
       "pp_rank": "14",
-      "pk_percentage": 85.37,
+      "pk_percentage": "85.37%",
       "pk_rank": "4"
     },
     {
@@ -98,9 +98,9 @@
       "team_full_name": "Mjölby HC",
       "total_score": 101.55,
       "games_played": 14,
-      "pp_percentage": 22.0,
+      "pp_percentage": "22.00%",
       "pp_rank": "10",
-      "pk_percentage": 79.55,
+      "pk_percentage": "79.55%",
       "pk_rank": "9"
     },
     {
@@ -109,9 +109,9 @@
       "team_full_name": "Huddinge IK",
       "total_score": 99.29,
       "games_played": 13,
-      "pp_percentage": 14.29,
+      "pp_percentage": "14.29%",
       "pp_rank": "15",
-      "pk_percentage": 85.0,
+      "pk_percentage": "85.00%",
       "pk_rank": "5"
     },
     {
@@ -120,9 +120,9 @@
       "team_full_name": "HC Dalen",
       "total_score": 99.27,
       "games_played": 13,
-      "pp_percentage": 18.42,
+      "pp_percentage": "18.42%",
       "pp_rank": "12",
-      "pk_percentage": 80.85,
+      "pk_percentage": "80.85%",
       "pk_rank": "8"
     },
     {
@@ -131,9 +131,9 @@
       "team_full_name": "Västerviks IK",
       "total_score": 98.41,
       "games_played": 14,
-      "pp_percentage": 18.92,
+      "pp_percentage": "18.92%",
       "pp_rank": "11",
-      "pk_percentage": 79.49,
+      "pk_percentage": "79.49%",
       "pk_rank": "10"
     },
     {
@@ -142,9 +142,9 @@
       "team_full_name": "Mariestad BoIS HC",
       "total_score": 96.84,
       "games_played": 14,
-      "pp_percentage": 27.45,
+      "pp_percentage": "27.45%",
       "pp_rank": "6",
-      "pk_percentage": 69.39,
+      "pk_percentage": "69.39%",
       "pk_rank": "18"
     },
     {
@@ -153,9 +153,9 @@
       "team_full_name": "Halmstad Hammers HC",
       "total_score": 94.96,
       "games_played": 14,
-      "pp_percentage": 23.91,
+      "pp_percentage": "23.91%",
       "pp_rank": "8",
-      "pk_percentage": 71.05,
+      "pk_percentage": "71.05%",
       "pk_rank": "16"
     },
     {
@@ -164,9 +164,9 @@
       "team_full_name": "Nyköpings SK",
       "total_score": 93.5,
       "games_played": 16,
-      "pp_percentage": 17.5,
+      "pp_percentage": "17.50%",
       "pp_rank": "13",
-      "pk_percentage": 76.0,
+      "pk_percentage": "76.00%",
       "pk_rank": "14"
     },
     {
@@ -175,9 +175,9 @@
       "team_full_name": "Grums IK",
       "total_score": 87.11,
       "games_played": 14,
-      "pp_percentage": 11.11,
+      "pp_percentage": "11.11%",
       "pp_rank": "18",
-      "pk_percentage": 76.0,
+      "pk_percentage": "76.00%",
       "pk_rank": "13"
     },
     {
@@ -186,9 +186,9 @@
       "team_full_name": "Grästorps IK",
       "total_score": 83.72,
       "games_played": 15,
-      "pp_percentage": 13.95,
+      "pp_percentage": "13.95%",
       "pp_rank": "16",
-      "pk_percentage": 69.77,
+      "pk_percentage": "69.77%",
       "pk_rank": "17"
     },
     {
@@ -197,9 +197,9 @@
       "team_full_name": "Tyringe SoSS",
       "total_score": 81.82,
       "games_played": 14,
-      "pp_percentage": 6.82,
+      "pp_percentage": "6.82%",
       "pp_rank": "19",
-      "pk_percentage": 75.0,
+      "pk_percentage": "75.00%",
       "pk_rank": "15"
     },
     {
@@ -208,9 +208,9 @@
       "team_full_name": "Kungälvs IK",
       "total_score": 81.59,
       "games_played": 14,
-      "pp_percentage": 12.2,
+      "pp_percentage": "12.20%",
       "pp_rank": "17",
-      "pk_percentage": 69.39,
+      "pk_percentage": "69.39%",
       "pk_rank": "18"
     },
     {
@@ -219,9 +219,9 @@
       "team_full_name": "Järfälla HC",
       "total_score": 67.65,
       "games_played": 14,
-      "pp_percentage": 2.94,
+      "pp_percentage": "2.94%",
       "pp_rank": "20",
-      "pk_percentage": 64.71,
+      "pk_percentage": "64.71%",
       "pk_rank": "20"
     }
   ]
