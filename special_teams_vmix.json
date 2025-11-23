@@ -1,0 +1,224 @@
+{
+  "rows": [
+    {
+      "Rank": 1,
+      "Team": "KHK",
+      "TeamName": "Karlskrona HK",
+      "TotalScore": "127.91%",
+      "GP": 14,
+      "PPPct": "40.68%",
+      "PPRank": "2",
+      "PKPct": "87.23%",
+      "PKRank": "1"
+    },
+    {
+      "Rank": 2,
+      "Team": "TRA",
+      "TeamName": "Tranås AIF",
+      "TotalScore": "127.72%",
+      "GP": 14,
+      "PPPct": "41.67%",
+      "PPRank": "1",
+      "PKPct": "86.05%",
+      "PKRank": "2"
+    },
+    {
+      "Rank": 3,
+      "Team": "TAIF",
+      "TeamName": "Tingsryds AIF",
+      "TotalScore": "116.91%",
+      "GP": 12,
+      "PPPct": "34.15%",
+      "PPRank": "3",
+      "PKPct": "82.76%",
+      "PKRank": "7"
+    },
+    {
+      "Rank": 4,
+      "Team": "VIT",
+      "TeamName": "HC Vita Hästen",
+      "TotalScore": "110.15%",
+      "GP": 15,
+      "PPPct": "24.44%",
+      "PPRank": "7",
+      "PKPct": "85.71%",
+      "PKRank": "3"
+    },
+    {
+      "Rank": 5,
+      "Team": "BRS",
+      "TeamName": "Borås HC",
+      "TotalScore": "108.38%",
+      "GP": 14,
+      "PPPct": "28.89%",
+      "PPRank": "4",
+      "PKPct": "79.49%",
+      "PKRank": "10"
+    },
+    {
+      "Rank": 6,
+      "Team": "VIS",
+      "TeamName": "Visby/Roma HK",
+      "TotalScore": "107.70%",
+      "GP": 15,
+      "PPPct": "23.08%",
+      "PPRank": "9",
+      "PKPct": "84.62%",
+      "PKRank": "6"
+    },
+    {
+      "Rank": 7,
+      "Team": "HAN",
+      "TeamName": "Hanvikens SK",
+      "TotalScore": "105.16%",
+      "GP": 13,
+      "PPPct": "27.66%",
+      "PPRank": "5",
+      "PKPct": "77.50%",
+      "PKRank": "12"
+    },
+    {
+      "Rank": 8,
+      "Team": "MÖR",
+      "TeamName": "Mörrums GoIS IK",
+      "TotalScore": "101.59%",
+      "GP": 12,
+      "PPPct": "16.22%",
+      "PPRank": "14",
+      "PKPct": "85.37%",
+      "PKRank": "4"
+    },
+    {
+      "Rank": 9,
+      "Team": "MHC",
+      "TeamName": "Mjölby HC",
+      "TotalScore": "101.55%",
+      "GP": 14,
+      "PPPct": "22.00%",
+      "PPRank": "10",
+      "PKPct": "79.55%",
+      "PKRank": "9"
+    },
+    {
+      "Rank": 10,
+      "Team": "HDG",
+      "TeamName": "Huddinge IK",
+      "TotalScore": "99.29%",
+      "GP": 13,
+      "PPPct": "14.29%",
+      "PPRank": "15",
+      "PKPct": "85.00%",
+      "PKRank": "5"
+    },
+    {
+      "Rank": 11,
+      "Team": "DAL",
+      "TeamName": "HC Dalen",
+      "TotalScore": "99.27%",
+      "GP": 13,
+      "PPPct": "18.42%",
+      "PPRank": "12",
+      "PKPct": "80.85%",
+      "PKRank": "8"
+    },
+    {
+      "Rank": 12,
+      "Team": "VÄS",
+      "TeamName": "Västerviks IK",
+      "TotalScore": "98.41%",
+      "GP": 14,
+      "PPPct": "18.92%",
+      "PPRank": "11",
+      "PKPct": "79.49%",
+      "PKRank": "10"
+    },
+    {
+      "Rank": 13,
+      "Team": "MAR",
+      "TeamName": "Mariestad BoIS HC",
+      "TotalScore": "96.84%",
+      "GP": 14,
+      "PPPct": "27.45%",
+      "PPRank": "6",
+      "PKPct": "69.39%",
+      "PKRank": "18"
+    },
+    {
+      "Rank": 14,
+      "Team": "HHHC",
+      "TeamName": "Halmstad Hammers HC",
+      "TotalScore": "94.96%",
+      "GP": 14,
+      "PPPct": "23.91%",
+      "PPRank": "8",
+      "PKPct": "71.05%",
+      "PKRank": "16"
+    },
+    {
+      "Rank": 15,
+      "Team": "NSK",
+      "TeamName": "Nyköpings SK",
+      "TotalScore": "93.50%",
+      "GP": 16,
+      "PPPct": "17.50%",
+      "PPRank": "13",
+      "PKPct": "76.00%",
+      "PKRank": "14"
+    },
+    {
+      "Rank": 16,
+      "Team": "GRU",
+      "TeamName": "Grums IK",
+      "TotalScore": "87.11%",
+      "GP": 14,
+      "PPPct": "11.11%",
+      "PPRank": "18",
+      "PKPct": "76.00%",
+      "PKRank": "13"
+    },
+    {
+      "Rank": 17,
+      "Team": "GRÄ",
+      "TeamName": "Grästorps IK",
+      "TotalScore": "83.72%",
+      "GP": 15,
+      "PPPct": "13.95%",
+      "PPRank": "16",
+      "PKPct": "69.77%",
+      "PKRank": "17"
+    },
+    {
+      "Rank": 18,
+      "Team": "TYR",
+      "TeamName": "Tyringe SoSS",
+      "TotalScore": "81.82%",
+      "GP": 14,
+      "PPPct": "6.82%",
+      "PPRank": "19",
+      "PKPct": "75.00%",
+      "PKRank": "15"
+    },
+    {
+      "Rank": 19,
+      "Team": "KUN",
+      "TeamName": "Kungälvs IK",
+      "TotalScore": "81.59%",
+      "GP": 14,
+      "PPPct": "12.20%",
+      "PPRank": "17",
+      "PKPct": "69.39%",
+      "PKRank": "18"
+    },
+    {
+      "Rank": 20,
+      "Team": "JÄR",
+      "TeamName": "Järfälla HC",
+      "TotalScore": "67.65%",
+      "GP": 14,
+      "PPPct": "2.94%",
+      "PPRank": "20",
+      "PKPct": "64.71%",
+      "PKRank": "20"
+    }
+  ]
+}
