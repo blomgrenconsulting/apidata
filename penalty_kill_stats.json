@@ -1,7 +1,7 @@
 {
   "league_id": "18271",
   "last_update": "Last update: 2025-11-23 19:14",
-  "scraped_at": "2025-11-23T20:41:54.107977",
+  "scraped_at": "2025-11-23T21:15:20.199805",
   "total_teams": 20,
   "teams": [
     {
@@ -11,7 +11,7 @@
       "games_played": 14,
       "disadvantages": 47,
       "pp_goals_against": 6,
-      "pk_percentage": 87.23,
+      "pk_percentage": "87.23%",
       "time_sh": "86:47",
       "avg_time": "14:28",
       "sh_goals_for": 3
@@ -23,7 +23,7 @@
       "games_played": 14,
       "disadvantages": 43,
       "pp_goals_against": 6,
-      "pk_percentage": 86.05,
+      "pk_percentage": "86.05%",
       "time_sh": "78:14",
       "avg_time": "13:02",
       "sh_goals_for": 2
@@ -35,7 +35,7 @@
       "games_played": 15,
       "disadvantages": 42,
       "pp_goals_against": 6,
-      "pk_percentage": 85.71,
+      "pk_percentage": "85.71%",
       "time_sh": "71:12",
       "avg_time": "11:52",
       "sh_goals_for": 1
@@ -47,7 +47,7 @@
       "games_played": 12,
       "disadvantages": 41,
       "pp_goals_against": 6,
-      "pk_percentage": 85.37,
+      "pk_percentage": "85.37%",
       "time_sh": "74:07",
       "avg_time": "12:21",
       "sh_goals_for": 0
@@ -59,7 +59,7 @@
       "games_played": 13,
       "disadvantages": 40,
       "pp_goals_against": 6,
-      "pk_percentage": 85.0,
+      "pk_percentage": "85.00%",
       "time_sh": "71:38",
       "avg_time": "11:56",
       "sh_goals_for": 1
@@ -71,7 +71,7 @@
       "games_played": 15,
       "disadvantages": 39,
       "pp_goals_against": 6,
-      "pk_percentage": 84.62,
+      "pk_percentage": "84.62%",
       "time_sh": "69:40",
       "avg_time": "11:37",
       "sh_goals_for": 0
@@ -83,7 +83,7 @@
       "games_played": 12,
       "disadvantages": 29,
       "pp_goals_against": 5,
-      "pk_percentage": 82.76,
+      "pk_percentage": "82.76%",
       "time_sh": "49:59",
       "avg_time": "10:00",
       "sh_goals_for": 1
@@ -95,7 +95,7 @@
       "games_played": 13,
       "disadvantages": 47,
       "pp_goals_against": 9,
-      "pk_percentage": 80.85,
+      "pk_percentage": "80.85%",
       "time_sh": "83:32",
       "avg_time": "09:17",
       "sh_goals_for": 0
@@ -107,7 +107,7 @@
       "games_played": 14,
       "disadvantages": 44,
       "pp_goals_against": 9,
-      "pk_percentage": 79.55,
+      "pk_percentage": "79.55%",
       "time_sh": "71:05",
       "avg_time": "07:54",
       "sh_goals_for": 0
@@ -119,7 +119,7 @@
       "games_played": 14,
       "disadvantages": 39,
       "pp_goals_against": 8,
-      "pk_percentage": 79.49,
+      "pk_percentage": "79.49%",
       "time_sh": "68:58",
       "avg_time": "08:37",
       "sh_goals_for": 0
@@ -131,7 +131,7 @@
       "games_played": 14,
       "disadvantages": 39,
       "pp_goals_against": 8,
-      "pk_percentage": 79.49,
+      "pk_percentage": "79.49%",
       "time_sh": "58:24",
       "avg_time": "07:18",
       "sh_goals_for": 0
@@ -143,7 +143,7 @@
       "games_played": 13,
       "disadvantages": 40,
       "pp_goals_against": 9,
-      "pk_percentage": 77.5,
+      "pk_percentage": "77.50%",
       "time_sh": "67:04",
       "avg_time": "07:27",
       "sh_goals_for": 0
@@ -155,7 +155,7 @@
       "games_played": 14,
       "disadvantages": 50,
       "pp_goals_against": 12,
-      "pk_percentage": 76.0,
+      "pk_percentage": "76.00%",
       "time_sh": "88:23",
       "avg_time": "07:22",
       "sh_goals_for": 1
@@ -167,7 +167,7 @@
       "games_played": 16,
       "disadvantages": 50,
       "pp_goals_against": 12,
-      "pk_percentage": 76.0,
+      "pk_percentage": "76.00%",
       "time_sh": "81:23",
       "avg_time": "06:47",
       "sh_goals_for": 2
@@ -179,7 +179,7 @@
       "games_played": 14,
       "disadvantages": 52,
       "pp_goals_against": 13,
-      "pk_percentage": 75.0,
+      "pk_percentage": "75.00%",
       "time_sh": "81:10",
       "avg_time": "06:15",
       "sh_goals_for": 0
@@ -191,7 +191,7 @@
       "games_played": 14,
       "disadvantages": 38,
       "pp_goals_against": 11,
-      "pk_percentage": 71.05,
+      "pk_percentage": "71.05%",
       "time_sh": "66:53",
       "avg_time": "06:05",
       "sh_goals_for": 0
@@ -203,7 +203,7 @@
       "games_played": 15,
       "disadvantages": 43,
       "pp_goals_against": 13,
-      "pk_percentage": 69.77,
+      "pk_percentage": "69.77%",
       "time_sh": "72:57",
       "avg_time": "05:37",
       "sh_goals_for": 0
@@ -215,7 +215,7 @@
       "games_played": 14,
       "disadvantages": 49,
       "pp_goals_against": 15,
-      "pk_percentage": 69.39,
+      "pk_percentage": "69.39%",
       "time_sh": "78:40",
       "avg_time": "05:15",
       "sh_goals_for": 1
@@ -227,7 +227,7 @@
       "games_played": 14,
       "disadvantages": 49,
       "pp_goals_against": 15,
-      "pk_percentage": 69.39,
+      "pk_percentage": "69.39%",
       "time_sh": "75:09",
       "avg_time": "05:01",
       "sh_goals_for": 0
@@ -239,7 +239,7 @@
       "games_played": 14,
       "disadvantages": 51,
       "pp_goals_against": 18,
-      "pk_percentage": 64.71,
+      "pk_percentage": "64.71%",
       "time_sh": "78:09",
       "avg_time": "04:20",
       "sh_goals_for": 3
