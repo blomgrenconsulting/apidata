@@ -1,0 +1,228 @@
+{
+  "league_id": "18271",
+  "last_update": "Last update: 2025-11-23 19:00",
+  "scraped_at": "2025-11-23T19:07:04.739444",
+  "total_teams": 20,
+  "teams": [
+    {
+      "rank": "1",
+      "team": "KHK",
+      "games_played": 14,
+      "disadvantages": 47,
+      "pp_goals_against": 6,
+      "pk_percentage": 87.23,
+      "time_sh": "86:47",
+      "avg_time": "14:28",
+      "sh_goals_for": 3
+    },
+    {
+      "rank": "2",
+      "team": "TRA",
+      "games_played": 14,
+      "disadvantages": 43,
+      "pp_goals_against": 6,
+      "pk_percentage": 86.05,
+      "time_sh": "78:14",
+      "avg_time": "13:02",
+      "sh_goals_for": 2
+    },
+    {
+      "rank": "3",
+      "team": "VIT",
+      "games_played": 15,
+      "disadvantages": 42,
+      "pp_goals_against": 6,
+      "pk_percentage": 85.71,
+      "time_sh": "71:12",
+      "avg_time": "11:52",
+      "sh_goals_for": 1
+    },
+    {
+      "rank": "4",
+      "team": "MÖR",
+      "games_played": 12,
+      "disadvantages": 41,
+      "pp_goals_against": 6,
+      "pk_percentage": 85.37,
+      "time_sh": "74:07",
+      "avg_time": "12:21",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "5",
+      "team": "HDG",
+      "games_played": 13,
+      "disadvantages": 40,
+      "pp_goals_against": 6,
+      "pk_percentage": 85.0,
+      "time_sh": "71:38",
+      "avg_time": "11:56",
+      "sh_goals_for": 1
+    },
+    {
+      "rank": "6",
+      "team": "VIS",
+      "games_played": 15,
+      "disadvantages": 39,
+      "pp_goals_against": 6,
+      "pk_percentage": 84.62,
+      "time_sh": "69:40",
+      "avg_time": "11:37",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "7",
+      "team": "TAIF",
+      "games_played": 12,
+      "disadvantages": 29,
+      "pp_goals_against": 5,
+      "pk_percentage": 82.76,
+      "time_sh": "49:59",
+      "avg_time": "10:00",
+      "sh_goals_for": 1
+    },
+    {
+      "rank": "8",
+      "team": "DAL",
+      "games_played": 13,
+      "disadvantages": 47,
+      "pp_goals_against": 9,
+      "pk_percentage": 80.85,
+      "time_sh": "83:32",
+      "avg_time": "09:17",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "9",
+      "team": "MHC",
+      "games_played": 14,
+      "disadvantages": 44,
+      "pp_goals_against": 9,
+      "pk_percentage": 79.55,
+      "time_sh": "71:05",
+      "avg_time": "07:54",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "10",
+      "team": "BRS",
+      "games_played": 14,
+      "disadvantages": 39,
+      "pp_goals_against": 8,
+      "pk_percentage": 79.49,
+      "time_sh": "68:58",
+      "avg_time": "08:37",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "10",
+      "team": "VÄS",
+      "games_played": 14,
+      "disadvantages": 39,
+      "pp_goals_against": 8,
+      "pk_percentage": 79.49,
+      "time_sh": "58:24",
+      "avg_time": "07:18",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "12",
+      "team": "HAN",
+      "games_played": 13,
+      "disadvantages": 40,
+      "pp_goals_against": 9,
+      "pk_percentage": 77.5,
+      "time_sh": "67:04",
+      "avg_time": "07:27",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "13",
+      "team": "GRU",
+      "games_played": 14,
+      "disadvantages": 50,
+      "pp_goals_against": 12,
+      "pk_percentage": 76.0,
+      "time_sh": "88:23",
+      "avg_time": "07:22",
+      "sh_goals_for": 1
+    },
+    {
+      "rank": "14",
+      "team": "NSK",
+      "games_played": 16,
+      "disadvantages": 50,
+      "pp_goals_against": 12,
+      "pk_percentage": 76.0,
+      "time_sh": "81:23",
+      "avg_time": "06:47",
+      "sh_goals_for": 2
+    },
+    {
+      "rank": "15",
+      "team": "TYR",
+      "games_played": 14,
+      "disadvantages": 52,
+      "pp_goals_against": 13,
+      "pk_percentage": 75.0,
+      "time_sh": "81:10",
+      "avg_time": "06:15",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "16",
+      "team": "HHHC",
+      "games_played": 14,
+      "disadvantages": 38,
+      "pp_goals_against": 11,
+      "pk_percentage": 71.05,
+      "time_sh": "66:53",
+      "avg_time": "06:05",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "17",
+      "team": "GRÄ",
+      "games_played": 15,
+      "disadvantages": 43,
+      "pp_goals_against": 13,
+      "pk_percentage": 69.77,
+      "time_sh": "72:57",
+      "avg_time": "05:37",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "18",
+      "team": "KUN",
+      "games_played": 14,
+      "disadvantages": 49,
+      "pp_goals_against": 15,
+      "pk_percentage": 69.39,
+      "time_sh": "78:40",
+      "avg_time": "05:15",
+      "sh_goals_for": 1
+    },
+    {
+      "rank": "18",
+      "team": "MAR",
+      "games_played": 14,
+      "disadvantages": 49,
+      "pp_goals_against": 15,
+      "pk_percentage": 69.39,
+      "time_sh": "75:09",
+      "avg_time": "05:01",
+      "sh_goals_for": 0
+    },
+    {
+      "rank": "20",
+      "team": "JÄR",
+      "games_played": 14,
+      "disadvantages": 51,
+      "pp_goals_against": 18,
+      "pk_percentage": 64.71,
+      "time_sh": "78:09",
+      "avg_time": "04:20",
+      "sh_goals_for": 3
+    }
+  ]
+}
