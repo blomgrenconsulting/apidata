@@ -1,0 +1,228 @@
+{
+  "league_id": "18271",
+  "last_update": "Last update: 2025-11-24 07:45",
+  "scraped_at": "2025-11-24T07:46:08.225001",
+  "total_teams": 20,
+  "teams": [
+    {
+      "rank": 1,
+      "team": "KHK",
+      "team_name": "Karlskrona HK",
+      "total_score": "127.91%",
+      "games_played": 14,
+      "pp_percentage": "40.68%",
+      "pp_rank": "2",
+      "pk_percentage": "87.23%",
+      "pk_rank": "1"
+    },
+    {
+      "rank": 2,
+      "team": "TRA",
+      "team_name": "Tranås AIF",
+      "total_score": "127.72%",
+      "games_played": 14,
+      "pp_percentage": "41.67%",
+      "pp_rank": "1",
+      "pk_percentage": "86.05%",
+      "pk_rank": "2"
+    },
+    {
+      "rank": 3,
+      "team": "TAIF",
+      "team_name": "Tingsryds AIF",
+      "total_score": "116.91%",
+      "games_played": 12,
+      "pp_percentage": "34.15%",
+      "pp_rank": "3",
+      "pk_percentage": "82.76%",
+      "pk_rank": "7"
+    },
+    {
+      "rank": 4,
+      "team": "VIT",
+      "team_name": "HC Vita Hästen",
+      "total_score": "110.15%",
+      "games_played": 15,
+      "pp_percentage": "24.44%",
+      "pp_rank": "7",
+      "pk_percentage": "85.71%",
+      "pk_rank": "3"
+    },
+    {
+      "rank": 5,
+      "team": "BRS",
+      "team_name": "Borås HC",
+      "total_score": "108.38%",
+      "games_played": 14,
+      "pp_percentage": "28.89%",
+      "pp_rank": "4",
+      "pk_percentage": "79.49%",
+      "pk_rank": "10"
+    },
+    {
+      "rank": 6,
+      "team": "VIS",
+      "team_name": "Visby/Roma HK",
+      "total_score": "107.70%",
+      "games_played": 15,
+      "pp_percentage": "23.08%",
+      "pp_rank": "9",
+      "pk_percentage": "84.62%",
+      "pk_rank": "6"
+    },
+    {
+      "rank": 7,
+      "team": "HAN",
+      "team_name": "Hanvikens SK",
+      "total_score": "105.16%",
+      "games_played": 13,
+      "pp_percentage": "27.66%",
+      "pp_rank": "5",
+      "pk_percentage": "77.50%",
+      "pk_rank": "12"
+    },
+    {
+      "rank": 8,
+      "team": "MÖR",
+      "team_name": "Mörrums GoIS IK",
+      "total_score": "101.59%",
+      "games_played": 12,
+      "pp_percentage": "16.22%",
+      "pp_rank": "14",
+      "pk_percentage": "85.37%",
+      "pk_rank": "4"
+    },
+    {
+      "rank": 9,
+      "team": "MHC",
+      "team_name": "Mjölby HC",
+      "total_score": "101.55%",
+      "games_played": 14,
+      "pp_percentage": "22.00%",
+      "pp_rank": "10",
+      "pk_percentage": "79.55%",
+      "pk_rank": "9"
+    },
+    {
+      "rank": 10,
+      "team": "HDG",
+      "team_name": "Huddinge IK",
+      "total_score": "99.29%",
+      "games_played": 13,
+      "pp_percentage": "14.29%",
+      "pp_rank": "15",
+      "pk_percentage": "85.00%",
+      "pk_rank": "5"
+    },
+    {
+      "rank": 11,
+      "team": "DAL",
+      "team_name": "HC Dalen",
+      "total_score": "99.27%",
+      "games_played": 13,
+      "pp_percentage": "18.42%",
+      "pp_rank": "12",
+      "pk_percentage": "80.85%",
+      "pk_rank": "8"
+    },
+    {
+      "rank": 12,
+      "team": "VÄS",
+      "team_name": "Västerviks IK",
+      "total_score": "98.41%",
+      "games_played": 14,
+      "pp_percentage": "18.92%",
+      "pp_rank": "11",
+      "pk_percentage": "79.49%",
+      "pk_rank": "10"
+    },
+    {
+      "rank": 13,
+      "team": "MAR",
+      "team_name": "Mariestad BoIS HC",
+      "total_score": "96.84%",
+      "games_played": 14,
+      "pp_percentage": "27.45%",
+      "pp_rank": "6",
+      "pk_percentage": "69.39%",
+      "pk_rank": "18"
+    },
+    {
+      "rank": 14,
+      "team": "HHHC",
+      "team_name": "Halmstad Hammers HC",
+      "total_score": "94.96%",
+      "games_played": 14,
+      "pp_percentage": "23.91%",
+      "pp_rank": "8",
+      "pk_percentage": "71.05%",
+      "pk_rank": "16"
+    },
+    {
+      "rank": 15,
+      "team": "NSK",
+      "team_name": "Nyköpings SK",
+      "total_score": "93.50%",
+      "games_played": 16,
+      "pp_percentage": "17.50%",
+      "pp_rank": "13",
+      "pk_percentage": "76.00%",
+      "pk_rank": "14"
+    },
+    {
+      "rank": 16,
+      "team": "GRU",
+      "team_name": "Grums IK",
+      "total_score": "87.11%",
+      "games_played": 14,
+      "pp_percentage": "11.11%",
+      "pp_rank": "18",
+      "pk_percentage": "76.00%",
+      "pk_rank": "13"
+    },
+    {
+      "rank": 17,
+      "team": "GRÄ",
+      "team_name": "Grästorps IK",
+      "total_score": "83.72%",
+      "games_played": 15,
+      "pp_percentage": "13.95%",
+      "pp_rank": "16",
+      "pk_percentage": "69.77%",
+      "pk_rank": "17"
+    },
+    {
+      "rank": 18,
+      "team": "TYR",
+      "team_name": "Tyringe SoSS",
+      "total_score": "81.82%",
+      "games_played": 14,
+      "pp_percentage": "6.82%",
+      "pp_rank": "19",
+      "pk_percentage": "75.00%",
+      "pk_rank": "15"
+    },
+    {
+      "rank": 19,
+      "team": "KUN",
+      "team_name": "Kungälvs IK",
+      "total_score": "81.59%",
+      "games_played": 14,
+      "pp_percentage": "12.20%",
+      "pp_rank": "17",
+      "pk_percentage": "69.39%",
+      "pk_rank": "18"
+    },
+    {
+      "rank": 20,
+      "team": "JÄR",
+      "team_name": "Järfälla HC",
+      "total_score": "67.65%",
+      "games_played": 14,
+      "pp_percentage": "2.94%",
+      "pp_rank": "20",
+      "pk_percentage": "64.71%",
+      "pk_rank": "20"
+    }
+  ]
+}
